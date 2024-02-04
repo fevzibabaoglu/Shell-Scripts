@@ -1,7 +1,7 @@
-### PowerShell
+# PowerShell
 
 
-#### WoL-Script 
+## WoL-Script 
 A script to turn on a computer on the same network using *magic packet* and *Wake-on-LAN* feature. [Windows to Linux]
 
 * Both computers (the computer running the script and the target computer) must be on the same network.
@@ -15,10 +15,10 @@ A script to turn on a computer on the same network using *magic packet* and *Wak
 
 
 ---
-### AutoHotKey
+# AutoHotKey
 
-#### MaximizeTerminal
+## MaximizeTerminal
 Minimizes all the apps except the terminal when the terminal is maximized.
 
-#### ToggleDesktopIcons
+## ToggleDesktopIcons
 Toggle desktop icons using shortcut [Win+Q].
